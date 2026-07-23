@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 72" role="img" aria-labelledby="title">
+  <title id="title">L’Atelier Pratique</title>
+  <rect width="72" height="72" rx="36" fill="#e84a2a"/>
+  <path d="M20 50 36 16l16 34h-9l-3-8H31l-3 8zm14-16h4l-2-7z" fill="#fff"/>
+  <text x="88" y="47" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#161616">L’ATELIER</text>
+</svg>

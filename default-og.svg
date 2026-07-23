@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">L’Atelier Pratique</title>
+  <desc id="desc">Image de partage par défaut du site de démonstration</desc>
+  <rect width="1200" height="630" fill="#fffdf8"/>
+  <rect x="64" y="64" width="1072" height="502" fill="none" stroke="#161616" stroke-width="4"/>
+  <circle cx="190" cy="190" r="70" fill="#e84a2a"/>
+  <text x="110" y="380" font-family="Arial,Helvetica,sans-serif" font-size="94" font-weight="700" fill="#161616">L’ATELIER PRATIQUE</text>
+  <text x="114" y="450" font-family="Arial,Helvetica,sans-serif" font-size="34" fill="#161616">COMPRENDRE · TESTER · DOCUMENTER</text>
+</svg>
